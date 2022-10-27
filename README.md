@@ -16,7 +16,7 @@ C++ and the STD libraries provided in the program were utilize as well.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [W3 School - C++ Tutorial]((https://www.w3schools.com/cpp/default.asp))
+* [W3 School - C++ Tutorial](https://www.w3schools.com/cpp/default.asp)
 * [Geeks for Geeks C++ Tutorial](https://www.geeksforgeeks.org/c-plus-plus/?ref=shm)
 * [Programiz C++ Tutorial](https://www.programiz.com/cpp-programming/variables-literals)
 * [CPP refrences in all things C++](https://en.cppreference.com/w/)
